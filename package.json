@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "compute-stdev": "^1.0.0",
+    "kefir-takenth": "^1.0.1",
+    "lodash": "^3.10.1",
+    "serialport": "^2.0.5",
+    "simple-charm": "^0.2.0"
+  }
+}
